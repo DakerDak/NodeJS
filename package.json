@@ -1,0 +1,23 @@
+{
+  "name": "seventwonodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DakerDak/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DakerDak/NodeJS/issues"
+  },
+  "homepage": "https://github.com/DakerDak/NodeJS#readme",
+  "devDependencies": {
+    "eslint": "^2.4.0"
+  }
+}
